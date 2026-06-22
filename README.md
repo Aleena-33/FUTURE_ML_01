@@ -43,4 +43,5 @@ The forecast helps businesses:
 
 ## Author
 
-Your Name
+Aleena VT
+
